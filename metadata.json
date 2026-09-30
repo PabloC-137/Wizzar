@@ -1,0 +1,6 @@
+{
+  "name": "Devoluciones de Venta POS",
+  "description": "Sistema POS para gestión desacoplada de devoluciones de inventario y reembolsos monetarios independientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
